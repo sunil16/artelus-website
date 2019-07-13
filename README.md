@@ -2,6 +2,8 @@
 
 This is artelus website using Vuejs framework with Html, Css, Javascript, Bootstrap.
 
+### Live
+[Demo](https://artelus.herokuapp.com/)
 ### Tech
 
 This website uses a number of open source projects to work properly:
