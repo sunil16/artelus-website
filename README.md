@@ -1,6 +1,6 @@
 # Artelus website
 
-This is artelus website using Vuejs framwork with Html, Css, Javascript, Bootstrap.
+This is artelus website using Vuejs fraemwork with Html, Css, Javascript, Bootstrap.
 
 ### Tech
 
